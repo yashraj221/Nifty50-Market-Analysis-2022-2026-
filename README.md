@@ -25,6 +25,35 @@ Data was obtained using the yfinance Python library.
 
 ## Visualizations
 
+### 1. Nifty50 Closing Price (2022-2026)
+![Closing Price](price_trend.png)
+Nifty50 grew from ~15,200 in mid-2022 to ~26,000 by 2026, 
+reflecting a long-term bull market interrupted by two major 
+shock events.
+
+### 2. Average Monthly Return
+![Monthly Returns](monthly_returns.png)
+January and February show the only negative average daily 
+returns across the dataset, indicating consistent seasonal 
+weakness at the start of the calendar year.
+
+### 3. Monthly Volatility
+![Monthly Volatility](monthly_volatility.png)
+June shows the highest monthly volatility while July shows 
+the lowest, suggesting mid-year uncertainty followed by 
+market stabilization.
+
+### 4. Trading Volume Over Time
+![Volume](volume_trend.png)
+Volume remained relatively stable throughout 2022-2026 with 
+occasional spikes, confirming that major price movements were 
+not always accompanied by unusually high trading activity.
+
+### 5. 30-Day Rolling Volatility
+![Rolling Volatility](rolling_volatility.png)
+Two clear volatility regimes are visible — the 2022 geopolitical 
+shock and the 2024 election spike — with relative calm in between.
+
 ## Key Findings
 
 Finding 1 — Geopolitical Shock (Early 2022):
