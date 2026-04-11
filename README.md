@@ -54,6 +54,12 @@ not always accompanied by unusually high trading activity.
 Two clear volatility regimes are visible — the 2022 geopolitical 
 shock and the 2024 election spike — with relative calm in between.
 
+### 6. Event Study — Cumulative Abnormal Returns
+![Event Study](event_study.png)
+Five major macro events analyzed using event study methodology. 
+Geopolitical shocks produced sustained losses. Political shocks 
+showed sharp drops with fast recovery.
+
 ## Key Findings
 
 Finding 1 — Geopolitical Shock (Early 2022):
@@ -84,7 +90,6 @@ This indicates that rising prices did not mean falling risk —
 a important distinction for any risk-aware investor.
 
 Finding 5 — Event Study Analysis:
-![Event Study](event_study.png)
 Across 5 major macro events (2022-2024), markets showed two 
 distinct recovery patterns. Geopolitical shocks (Russia-Ukraine) 
 produced sustained negative CAR with no recovery within a 5-day 
