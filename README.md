@@ -83,6 +83,16 @@ volatility remained elevated and spiked again in early 2025.
 This indicates that rising prices did not mean falling risk — 
 a important distinction for any risk-aware investor.
 
+Finding 5 — Event Study Analysis:
+![Event Study](event_study.png)
+Across 5 major macro events (2022-2024), markets showed two 
+distinct recovery patterns. Geopolitical shocks (Russia-Ukraine) 
+produced sustained negative CAR with no recovery within a 5-day 
+window (-6.7%). Political shocks (Election 2024) produced sharp 
+single-day drops (-4.7%) followed by full recovery within 3 days. 
+US Fed rate hike damage began 4 days before the event, suggesting 
+markets partially anticipated the decision.
+
 ## Limitations
 - Analysis covers index-level data only; no sectoral breakdown
 - The 4-year window captures only 2 major shock events, which 
